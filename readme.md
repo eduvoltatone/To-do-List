@@ -1,31 +1,25 @@
-# TODO List Application
+Aplicação TODO List
 
 Esta é uma aplicação de TODO List que se integra com uma API de tarefas.
 
-## Informações dos Alunos
+Aluno
+- Nome: Eduardo Voltatone Ribeiro das Neves
+- RA: 22207439-2
 
-### Aluno 1
-- **Nome:** Pedro Henrique Magalhães Gomes
-- **RA:** 22087525-2
+Descrição do Projeto
 
-### Aluno 2
-- **Nome:** Eduardo Voltatone Ribeiro das Neves
-- **RA:** 22207439-2
-
-## Descrição do Projeto
-
-O objetivo deste projeto é criar uma aplicação de TODO List utilizando HTML, CSS e JavaScript, integrada com uma API de tarefas. A aplicação permite listar, adicionar, editar, remover e filtrar tarefas.
+O objetivo deste projeto é desenvolver uma aplicação de TODO List utilizando HTML, CSS e JavaScript, integrada com uma API de tarefas. A aplicação permite listar, adicionar, editar, remover e filtrar tarefas.
 
 A pasta API foi clonada do repositório: https://github.com/satinP/express-todo-list.
 
-### Instruções
+Instruções
 
-Para rodar o projeto, é necessário:
+Para rodar o projeto, siga os passos abaixo:
 
-1. Tenha certeza que está dentro da pasta API
-2. Instalar as dependencias com o comando `npm i`
-3. Tenha certeza que o docker está configurado e rodando
-4. Configurar o projeto com o comando `npm run setup`
-5. Dar um start no projeto com o comando `npm run start`
+1. Certifique-se de estar dentro da pasta API.
+2. Instale as dependências com o comando `npm i`.
+3. Verifique se o Docker está configurado e em execução.
+4. Configure o projeto com o comando `npm run setup`.
+5. Inicie o projeto com o comando `npm run start`.
 
-Após isso, o sistema deverá reponder que o servidor está rodando. Então, abra a página index.html no navegador para testar todas as funcionalidades da página de TODO list, tais como: lsitar, adicionar, editar, remover e filtrar as tarefas.
+Após seguir esses passos, o sistema deverá indicar que o servidor está em execução. Em seguida, abra a página index.html no navegador para testar todas as funcionalidades da TODO list, como listar, adicionar, editar, remover e filtrar tarefas.
